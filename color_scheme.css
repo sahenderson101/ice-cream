@@ -1,0 +1,34 @@
+h1 {
+    color:azure; font-size: 12px;
+}
+h2 {
+    color:yellow; font-size: 12px;
+}
+h3 {
+    color:red; font-size: 12px;
+}
+h4 {
+    color:purple; font-size: 12px;
+}
+h5 {
+    color:green; font-size: 12px;
+}
+h6{
+    color:pink; font-size: 12px;
+}
+
+body{background-color: grey;}
+p {color: lightcoral;}
+img {
+    border: 10px solid purple;
+}
+li {
+    border: 2px solid red;
+    display: inline;
+    text-transform: capitalize;
+    padding: 5px;
+}
+ul {
+    text-align: center;
+}
+
