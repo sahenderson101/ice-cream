@@ -1,11 +1,11 @@
 h1 {
-    color:azure; font-size: 12px;
+    color:azure; font-size: 32px;
 }
 h2 {
     color:yellow; font-size: 12px;
 }
 h3 {
-    color:red; font-size: 12px;
+    color:red; font-size: 20px;
 }
 h4 {
     color:purple; font-size: 12px;
@@ -14,11 +14,11 @@ h5 {
     color:green; font-size: 12px;
 }
 h6{
-    color:pink; font-size: 12px;
+    color:pink; font-size: 18px;
 }
 
 body{background-color: grey;}
-p {color: lightcoral;}
+p {color: purple;font-size: 18px;}
 img {
     border: 10px solid purple;
 }
