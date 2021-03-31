@@ -21,12 +21,10 @@ h6{
 body{background-color: grey;}
 p {color: purple;font-size: 18px;}
 img {
-    border: 10px solid purple;
-    width: 600px;
-    height: 300px;
-}
+    border: 3px solid purple;
+   }
 li {
-    border: 2px solid red;
+    border: 1px solid red;
     display: inline;
     text-transform: capitalize;
     padding: 5px;
